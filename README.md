@@ -6,7 +6,7 @@
 ## Outlets/Release Spots
 <a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Guilded Posts</span></a>
 <br> 
-<a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Github Releases</span></a>
+<a href="https://github.com/Sheathrb2/Image-Printer/releases"><span>Github Releases</span></a>
 
 ## License
 
