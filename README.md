@@ -1,7 +1,11 @@
 # Image-Printer
 ## Project
 Image Printer is an Image to Pen project.
-Avaliable on Windows, MacOS, Linux and in HTML
+Available on Windows, MacOS, Linux and in HTML.
+## Outlets/Release Spots
+Guilded: https://www.guilded.gg/u/TheBailzOnYT
+Github: https://github.com/Sheathrb2/Image-Printer/releases
+
 ## License
 Shield: ![CC BY-SA 2.0][cc-by-sa-shield]
 
