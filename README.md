@@ -4,10 +4,9 @@
 <span>Image Printer is an Image to Pen project.</span><br>
 <span>Available on Windows, MacOS, Linux and in HTML.</span>
 ## Outlets/Release Spots
-<a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Guilded</span></a>
+<a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Guilded Posts</span></a>
 <br> 
-<a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Guilded</span></a>
-Github: https://github.com/Sheathrb2/Image-Printer/releases
+<a href="https://www.guilded.gg/u/TheBailzOnYT"><span>Github Releases</span></a>
 
 ## License
 
