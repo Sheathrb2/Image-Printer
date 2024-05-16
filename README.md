@@ -1,5 +1,5 @@
 # Image-Printer
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CC BY-SA 2.0][cc-by-sa-shield] ![CC BY-SA 4.0][cc-by-sa-shield]
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![CC BY-SA 2.0][cc-by-sa-shield]
 ## Project
 <span>Image Printer is an Image to Pen project.</span><br>
 <span>Available on Windows, MacOS, Linux and in HTML.</span>
