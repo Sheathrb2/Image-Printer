@@ -1,6 +1,7 @@
 # Image-Printer
 ## Project
-WIP
+Image Printer is an Image to Pen project.
+Avaliable on Windows, MacOS, Linux and in HTML
 ## License
 Shield: ![CC BY-SA 2.0][cc-by-sa-shield]
 
